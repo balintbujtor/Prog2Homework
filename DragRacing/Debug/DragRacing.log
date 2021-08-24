@@ -1,0 +1,11 @@
+﻿  stdafx.cpp
+  Boat.cpp
+  Car.cpp
+  DragRacing.cpp
+c:\users\bálint\source\repos\dragracing\dragracing\dragracing.cpp(60): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Garage.cpp
+  Motorbike.cpp
+  User.cpp
+  Vehicle.cpp
+  Generating Code...
+  DragRacing.vcxproj -> C:\Users\Bálint\source\repos\DragRacing\Debug\DragRacing.exe
